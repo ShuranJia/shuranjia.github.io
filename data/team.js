@@ -50,7 +50,7 @@ var team = [
     },
     {
         id: 8,
-        name: "陈芊贝",
+        name: "陈芊贝 Chen",
         position: "Right fielder",
         image: "./img.png/陈芊贝.png",
         role: "Player"
