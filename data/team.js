@@ -1,15 +1,15 @@
 var team = [
     {
         id: 1,
-        name: "黄礼东",
-        description: "xxxx",
+        name: "黄可",
+        description: "中垒棒球俱乐部教练",
         image: "./img.png/黄礼东.png",
         role: "Coach"
     },
     {
         id: 2,
-        name: "黄可",
-        description: "xxxx",
+        name: "黄礼东",
+        description: "中垒棒球俱乐部教练",
         image: "./img.png/黄可.png",
         role: "Coach"
     },
@@ -59,7 +59,7 @@ var team = [
         id: 9,
         name: "陈框泽 Ocean",
         position: "Right fielder",
-        image: "http://picsum.photos/200/200",
+        image: "./img.png/陈框泽.png",
         role: "Player"
     },
     {
