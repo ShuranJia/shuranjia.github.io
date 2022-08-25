@@ -2,14 +2,14 @@ var team = [
     {
         id: 1,
         name: "黄可",
-        description: "中垒棒球俱乐部教练",
+        description: "undefined",
         image: "./img.png/黄礼东.png",
         role: "Coach"
     },
     {
         id: 2,
         name: "黄礼东",
-        description: "中垒棒球俱乐部教练",
+        description: "undefined",
         image: "./img.png/黄可.png",
         role: "Coach"
     },
